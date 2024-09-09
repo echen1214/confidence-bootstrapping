@@ -3,8 +3,6 @@
 
 Here we provide our implementation of the Confidence Bootstrapping method (https://arxiv.org/abs/2402.18396), pretrained diffusion and confidence models, and processed receptors from the DockGen validation and test sets. 
 
-Test change README to github fork (rename ldeng/origin to upstream/main -> push to origin)
-
 ## Dataset
 
 The DockGen benchmark can be downloaded from Zenodo (https://zenodo.org/records/10656052) by running 
